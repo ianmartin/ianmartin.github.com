@@ -1,45 +1,9 @@
 ---
 layout: page
-title: Hello World!
+title: Glacier Dynamics
 ---
-{% include JB/setup %}
+The proposed project brings together three leading research groups from different disciplines to work on an inherently interdisciplinary problem: creating a state-of-the-art network of sensors emplaced within an extreme environment at the heavily-crevassed tidewater margin of a glacier. Swansea Glaciology Group has considerable research expertise in various components of the cryosphere, specialising in geophysical techniques, remote sensing and modelling.
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+The team within the Institute of Advanced Telecommunications (IAT) at Swansea provide expertise in wireless networking, and the group at the School of Civil Engineering and Geosciences, Newcastle University in the required sensor technology and data processing. Our combined experience will provide the complete skill base and field expertise to provide field data to help solve a key question in glaciology &mdash; that of understanding the relationship between glacier calving and glacier dynamics on a tidewater glacier, and will furthermore provide a demonstration network of sensors in an extreme environment.
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
-
-## Update Author Attributes
-
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
-
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
-
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
-
-
+We believe that our track record demonstrates we have the scientific, technical and management skills to ensure this project is successfully delivered.
